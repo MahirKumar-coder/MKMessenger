@@ -2,7 +2,7 @@
 
 Real-time chat app built using Firebase.
 
-## Screenshots
+## screenshots
 
 ![Login Screen](screenshots\login.jpg)
 ![Chat](chat.jpg)
