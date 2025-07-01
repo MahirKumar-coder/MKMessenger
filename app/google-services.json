@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "592830193756",
+    "project_id": "m-k-messenger",
+    "storage_bucket": "m-k-messenger.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:592830193756:android:83152ea3defef38ac10699",
+        "android_client_info": {
+          "package_name": "com.example.mkmessenger"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlIMvvu6ukW-gUq02eebeIDPAyYLHwZ9A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
